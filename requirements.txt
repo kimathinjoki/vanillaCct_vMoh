@@ -1,0 +1,8 @@
+functions-framework==3.*
+jax==0.4.26
+numpy==1.26.4
+numpyro==0.14.0
+pandas==2.2.2
+scikit_learn==1.4.1.post1
+scipy==1.13.0
+flask
